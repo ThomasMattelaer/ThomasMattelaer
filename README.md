@@ -5,7 +5,7 @@
 - 👨‍💻 Working at Novutech as a Technical Consultant
 - 🦦 I’m currently working on SuiteScripts, a Javascript based language for Netsuite ERP. 
 - 👨‍💻 I have worked on Ruby on Rails.
-- ☀️ I’m looking for learning about React and NodeJS 
+- ☀️ I’m looking for learning about React and NextJS 
 - ⚡ Fun fact: I love doing sport, discover new great places to eat, and sharing beer(s)
 - 📫 How to reach me: Mattealer.thomas@hotmail.com
 
